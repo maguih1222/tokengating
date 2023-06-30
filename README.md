@@ -27,4 +27,4 @@ If you don't already have a contract address to mint an NFT with, you can either
 
 4. Open your browser and go to `localhost:3000`. Connect your wallet to the webpage and enter the contract address you want to use as well as the chain it is on, and click the "Verify Ownership of NFT" button to see your result!
 
-You can also watch this video tutorial [HERE]([https://docs.verbwire.com/reference/post_nft-mint-mintfromfile](https://www.youtube.com/watch?v=w3QGic64QfM&ab_channel=maguih1222)https://www.youtube.com/watch?v=w3QGic64QfM&ab_channel=maguih1222) if needed which showcases a runthrough of the project.
+You can also watch this video tutorial [HERE](https://www.youtube.com/watch?v=w3QGic64QfM&ab_channel=maguih1222) if needed which showcases a runthrough of the project.
